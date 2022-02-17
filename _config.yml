@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 title: Rob McQueen
 description: This is the homepage of Rob McQueen
 logo: /bingo.jpg
+
+github:
+  is_project_page: false
+  is_user_page: false
