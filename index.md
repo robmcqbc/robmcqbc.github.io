@@ -5,3 +5,5 @@ Welcome to my website. My name is Rob. I am a graduate student in the Boston Col
 [Click here to view my CV](/CV.pdf)
 
 [Go to google](https://google.com)
+
+![this is bingo](/bingo.jpg)
